@@ -22,6 +22,8 @@ Skapa en konsolapplikation.
 
 8. Besvara frågan: **Vad är fördelen med att använda ett interface jämfört med den ursprungliga lösningen?**
 
+*Mitt svar: Fördelen med ett interface är att flera olika klasser kan använda samma kontrakt och att en klass kan ha flera olika interfaces. Det gör koden flexiblare och lättare att underhålla.*
+
 9. Skapa ytterligare ett interface och implementera det i den första klassen. Lägg till en valfri metod och se till att alla kontrakt uppfylls.
 
 ## Extra uppgift
