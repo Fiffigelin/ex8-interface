@@ -41,3 +41,7 @@ Skapa en konsolapplikation.
 4. I varje metod ska du skriva ut vilken metod som körs.
 
 5. Skapa en instans av klassen och anropa båda metoderna.
+
+*Min kommentar: Om två interfaces har samma metodsnamn och parameter men olika returtyper behöver jag tydliggöra för int Run() att den är via IExtra2-interfacet.*
+
+*Detta heter explicit-implementation - lärt mig något nytt*
